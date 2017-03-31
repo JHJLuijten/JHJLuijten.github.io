@@ -2,15 +2,17 @@ body {
 	background-image: url("img_html/background.png");
 	color:white;
 	font-family : Tahoma;
+
 }
 h1 {
 	color:white;
-
+    text-align:center;
 }
 img{
 	border-width: 1px;
 	border-color : white;
 	border-style : solid;
+   
 }
 
 ul {
@@ -73,4 +75,9 @@ a {
 }
 #selfie{
     margin-left:40%;
+}
+div{
+    padding:50px; 
+    margin:0 100px; 
+    min-width:480px;
 }
